@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-![Header](./header.png)
+<img align="center" height="350" width="100%" alt="codegif" src="./header.png">
 
 # 💫 About Me:
-<img align="right" alt="codegif" width="400" src="./coding-typing.gif" border="50">
+<img align="right" alt="codegif" width="300" src="./coding-typing.gif" border="50">
 🤔 Studing in C.V.R Global University || CSIT || Final-Year<br>🔭 Currently Preparing For Placements & Cloud Certifications.<br>😎 Working on Task Offloading  in IoT-Fog Interconnected Network.<br>🌱 Skilled in Programming,App-Development & Web-Development<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>😄 Pronouns: He/His<br>⚡ Fun fact: There are Two ways to write a error-free Programs , But only the third one works!!😉
 
 
