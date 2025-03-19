@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-<img align="center" height="350" width="100%" alt="codegif" src="./header.png">
 
 # 💫 About Me:
-<img align="right" alt="codegif" width="300" src="./coding-typing.gif" border="50">
-🤔 Studing in C.V.R Global University || CSIT || Final-Year<br>🔭 Currently Preparing For Placements & Cloud Certifications.<br>😎 Working on Task Offloading  in IoT-Fog Interconnected Network.<br>🌱 Skilled in Programming,App-Development & Web-Development<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>😄 Pronouns: He/His<br>⚡ Fun fact: There are Two ways to write a error-free Programs , But only the third one works!!😉
+<img align="right" alt="codegif" width="200" src="./coding-typing.gif" border="50">
+🤔 Studing in C.V.R Global University || CSIT || Final-Year<br>🔭 Currently Preparing For Placements & Cloud Certifications.<br>😎 Working on Task Offloading  in IoT-Fog Interconnected Network.<br>🌱 Skilled in Programming,App-Development & Web-Development<br>💬 Ask me about Good First Issues & Exciting projects to work on.⚡ Fun fact: There are Two ways to write a error-free Programs , But only the third one works!!😉
 
 
 ## 🌐 Socials:
@@ -23,11 +22,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhisekroutray&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=monalisasahoo1310&icon=0&color=6)](https://visitcount.itsvg.in)
